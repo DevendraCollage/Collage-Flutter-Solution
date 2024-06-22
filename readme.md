@@ -12,7 +12,7 @@
 Note: 1 pound=.45359237 Kg and 1 inch=0.254 meters.
 ```
 
-<h1>1. Practical Lab-2</h1>
+<h1>2. Practical Lab-2</h1>
 
 [Solution For Practical-Lab-2](https://github.com/DevendraCollage/Collage-Flutter-Solution/tree/main/lab_2_solution)
 
@@ -25,7 +25,7 @@ Note: 1 pound=.45359237 Kg and 1 inch=0.254 meters.
 6. WAP to make a Simple Calculator using switch...case
 ```
 
-<h1>1. Practical Lab-3</h1>
+<h1>3. Practical Lab-3</h1>
 
 [Solution For Practical-Lab-3](https://github.com/DevendraCollage/Collage-Flutter-Solution/tree/main/lab_3_solution)
 
@@ -38,7 +38,7 @@ Note: 1 pound=.45359237 Kg and 1 inch=0.254 meters.
 6. WAP program to calculate the sum of all positive even numbers and the sum of all negative odd numbers from a set of numbers. you can enter 0 (zero) to quit the program and thus it displays the result.
 ```
 
-<h1>1. Practical Lab-4</h1>
+<h1>4. Practical Lab-4</h1>
 
 [Solution For Practical-Lab-4](https://github.com/DevendraCollage/Collage-Flutter-Solution/tree/main/lab_4_solution)
 
@@ -50,7 +50,7 @@ Note: 1 pound=.45359237 Kg and 1 inch=0.254 meters.
 5. WAP to count number of even or odd number from an array of n numbers.
 ```
 
-<h1>1. Practical Lab-5</h1>
+<h1>5. Practical Lab-5</h1>
 
 [Solution For Practical-Lab-5](https://github.com/DevendraCollage/Collage-Flutter-Solution/tree/main/lab_5_solution)
 
