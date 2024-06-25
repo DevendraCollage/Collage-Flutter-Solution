@@ -17,7 +17,7 @@ void main() {
   int range = int.parse(stdin.readLineSync()!);
 
   // Print the fibonacci series
-  for (var i = 0; i <= range; i++) {
+  for (var i = 0; i < range; i++) {
     stdout.write("${Fibo(i)}, ");
   }
 }
