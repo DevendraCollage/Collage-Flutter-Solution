@@ -19,7 +19,6 @@ void main() {
   };
 
   // Function to get friend detail
-  //* This look the name in the object if find then this will return corresponding object or null if name not in the dictionary
   Friend? friendName(String name) {
     return friend1[name];
   }

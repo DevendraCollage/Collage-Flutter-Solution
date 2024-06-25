@@ -28,8 +28,10 @@ void main() {
   // Get the common element from the both list
   stdout.writeln("\nPrint the common elements from the given two lists : ");
   for (var i = 0; i < size; i++) {
-    if (l1[i] == l2[i]) {
-      stdout.write("${l1[i]}, ");
+    for (var j = 0; j < size; j++) {
+      if (l1[i] == l2[j]) {
+        stdout.write("${l1[i]}, ");
+      }
     }
   }
 }
